@@ -566,6 +566,9 @@ footer{
     padding: 0 15px;
     flex-direction: column-reverse;
 }
+.slick-dots{
+	bottom: -50px;
+}
 .tabs_wrap, .blocks_wrap, .form{
 	padding: 0 15px;
 }
